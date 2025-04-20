@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Tex Pasley's personal webpage
+email: claypas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a personal website for Clayton (Tex) Pasley, an attorney based in Chicago. It describes his professional interest in law, technology, and complex systems.
+  He writes about these issues in the context of technology and artifical intelligence at his blog, make law, and also studies these contexts through research
+  into housing and corporate ownership in Chicago.
+
+  Tex lives in Chicago's West Ridge neighborhood and enjoys cooking, fermentation, playing croquet, riding his bike around Chicago and going to new libraries with his son.
+  He is a hobbyist programmer and enjoys working on projects related to housing or baseball.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  simplicio10
 
 # Build settings
 theme: minima
